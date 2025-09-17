@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo-demo-six-zeta.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+title = 'Yoko Test Site'
+theme = 'ananke'
