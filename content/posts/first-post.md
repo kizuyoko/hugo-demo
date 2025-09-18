@@ -5,4 +5,4 @@ title = "Yoko's First Post"
 +++
 2025-09-17 Wednesday
 Yoko's Test Text! Wow, it works!!
-Check the code in [GitHub!](https://github.com/kizuyoko/pokecheck)
+Check the code in [GitHub!](https://github.com/kizuyoko/hugo-demo/)
